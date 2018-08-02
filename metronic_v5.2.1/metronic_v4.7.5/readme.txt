@@ -1,5 +1,5 @@
 Template Name: 	Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.7
-Version: 		4.7.5
+Version: 		4.7.5 TEST
 Author: 		KeenThemes
 Website: 		http://www.keenthemes.com/
 Contact: 		support@keenthemes.com
